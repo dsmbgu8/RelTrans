@@ -45,6 +45,7 @@ Please cite the following paper if you use the RelTrans code in your publication
 ## Additional References 
 
 >  B. D. Bue and E. Merényi, “Using spatial correspondences for hyperspectral knowledge transfer: evaluation on synthetic data,” Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), Jun. 2010.
+
 >  B. D. Bue, E. Merényi, and B. Csathó, “An Evaluation of Class Knowledge Transfer from Real to Synthetic Imagery,” Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), Jun. 2011.
 
 
